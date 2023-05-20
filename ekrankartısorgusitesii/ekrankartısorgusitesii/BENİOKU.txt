@@ -1,0 +1,5 @@
+Siteyi tam anlamı ile kullanmak için aşağıdaki verilen adımları uygulamanız gerekmektedir.
+1- localhost kısmında "anasayfa_misafir.asp" açılmalı.
+2- Üye ola tıklayıp giriş yapıldıktan sonra "anasayfa_uye.asp" kısmına ulaşılır ve oradan istenilen verilere bakılabilir.
+3- Admin girişi için "anasayfa_misafir.asp" kısmında "Giriş Yap" seçeneğine tıklanıp oradan da "Admin" seçeneğine tıklanıp Kullanıcı Adı "admin" Şifre "admin" olarak yazılınca admin paneli açılacaktır.
+4- Admin panelinde Kullanıcı Verileri görüntülenebilir,silinebilir ve güncellenebilir. Ayrıca Ekran kartlarının bulunduğu tablo görüntülenebilir,güncellenebilir ve silinebilir.
